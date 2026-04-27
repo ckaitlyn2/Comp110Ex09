@@ -6,7 +6,7 @@ layout: default
 # COMP110 Final Exercise Project!
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="Comp110Ex09/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 ## Project Overview
 
@@ -22,17 +22,17 @@ I used my own helper functions to clean the ata by removing missing responses. I
 # Visualizations
 
 ## Distribution of Office Hour Visits
-<img src="Comp110Ex09/static/imgs/plot1.png"width="500"/>
+<img src="static/imgs/plot1.png" width="500"/>
 
 this graph shows how frequently students attended office hours. 
 
 ## Office Hour visits vs Understanding
-<img src="Comp110Ex09/static/imgs/plot2.png"width="500/>
+<img src="static/imgs/plot2.png" width="500/>
 
 This scatterplot shows if attending office hours is related to higher understanding
 
 ## Understanding per Office Hour Visits
-<img src="Comp110Ex09/static/imgs/plot3.png"width="500"/>
+<img src="static/imgs/plot3.png" width="500"/>
 
 This boxplot shows a comparison of understanding of the students per the different levels of office hour attendance. 
 
@@ -42,7 +42,7 @@ This boxplot shows a comparison of understanding of the students per the differe
 This visualization shows if students who found the office hours they attended helpful is related to them showing a higher level of understanding. 
 
 ## Average Understanding by Visits to Office Hours
-<img src="Comp110Ex09/static/imgs/plot5.png"width="500"/>
+<img src="static/imgs/plot5.png" width="500"/>
 
 This shows the average understanding for each of the levels of office hour visits. 
 
