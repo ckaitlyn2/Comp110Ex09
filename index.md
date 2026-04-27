@@ -10,7 +10,7 @@ layout: default
 
 ## Project Overview
 
-During this project, I analyzed surveyd data across all of the sections of COMP110 students this semester. My goal was to see how we can improve the course design. I investigated whether atttending office hours is associated with increased student understanding. 
+During this project, I analyzed surveyed data across all of the sections of COMP110 students this semester. My goal was to see how we can improve the course design. I investigated whether atttending office hours is associated with increased student understanding. 
 
 To conduct the analysis, I combined the two data sets, specifically survey_izzi.csv and survey_alyssa.csv into a single data set. Then I isolated the specific variables I needed for my analysis includign: 
 a. office hour visits ('oh_visits')
@@ -24,12 +24,12 @@ I used my own helper functions to clean the ata by removing missing responses. I
 ## Distribution of Office Hour Visits
 <img src="static/imgs/plot1.png" width="500"/>
 
-this graph shows how frequently students attended office hours. 
+This graph shows how frequently students attended office hours. 
 
 ## Office Hour visits vs Understanding
 <img src="static/imgs/plot2.png" width="500/>
 
-This scatterplot shows if attending office hours is related to higher understanding
+This scatterplot shows if attending office hours is related to higher understanding.
 
 ## Understanding per Office Hour Visits
 <img src="static/imgs/plot3.png" width="500"/>
@@ -37,7 +37,7 @@ This scatterplot shows if attending office hours is related to higher understand
 This boxplot shows a comparison of understanding of the students per the different levels of office hour attendance. 
 
 ## Office Hour effectiveness vs understanding
-<img src="Comp110Ex09/static/imgs/plot4.png"width="500">
+<img src="static/imgs/plot4.png" width="500">
 
 This visualization shows if students who found the office hours they attended helpful is related to them showing a higher level of understanding. 
 
