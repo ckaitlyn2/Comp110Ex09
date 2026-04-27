@@ -27,7 +27,7 @@ I used my own helper functions to clean the ata by removing missing responses. I
 This graph shows how frequently students attended office hours. 
 
 ## Office Hour visits vs Understanding
-<img src="static/imgs/plot2.png" width="500/>
+<img src="static/imgs/plot2.png" width="500"/>
 
 This scatterplot shows if attending office hours is related to higher understanding.
 
